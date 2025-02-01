@@ -16,7 +16,7 @@ This project focuses on predicting **Bitcoin daily log returns** using three neu
 
 The dataset contains:
 - **Market data**: Open, High, Low, Close, Volume, MarketCap.
-- **Crypto-specific metrics**: Fear & Greed Index, Hash Rate, Days Since Halving.
+- **Crypto-specific metrics**: Fear & Greed Index, CBBI, VDD, Hash Rate, Days Since Halving.
 - **Macroeconomic indicators**: Inflation, M2SL, S&P500, DXY, VIX of VIX.
 - **Moving Averages**: MA5, MA20.
 
